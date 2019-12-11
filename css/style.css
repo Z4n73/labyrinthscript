@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+#start-button {
+    display: block;
+    font-size: 20px;
+    background-color: black;
+    color: #fff;
+    margin-left: 46.3%;
+    padding: 10px 20px;
+    border: 0;
+    box-shadow: 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+
+  #maze-canvas {
+    border: 5px solid black;
+  }
